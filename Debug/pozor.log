@@ -1,0 +1,4 @@
+﻿  pozor.cpp
+C:\Users\User\source\repos\pozor\pozor.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\pozor\pozor.cpp(45,24): warning C4018: <: несоответствие типов со знаком и без знака
+  pozor.vcxproj -> C:\Users\User\source\repos\pozor\Debug\pozor.exe
